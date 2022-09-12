@@ -13,6 +13,7 @@ const showTopNav = () => {
     }
 }
 
+// hide nav
 const hideTopNav = () => {
     document.getElementById("top-dropdown").className = "hide"
 }
